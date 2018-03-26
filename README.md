@@ -1,2 +1,4 @@
 # Shiny-templates
-Template for making R Shiny applications
+Templates for making R Shiny applications
+
+..* Jumbotron template
