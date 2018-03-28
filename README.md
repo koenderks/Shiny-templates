@@ -1,5 +1,5 @@
-# Shiny-templates
-Templates for making R Shiny applications
+# Shiny Templates
+Some open source templates for making R Shiny applications
 
 * Jumbotron template
 ![alt text](JumbotronTemplate.png)
